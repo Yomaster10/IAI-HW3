@@ -1,0 +1,9 @@
+Value Iteration Test: 7
+Get Policy Test: 7
+QLearning Test: 7
+Qtable Policy Extraction Test: 3
+BONUS policy evaluation and iteration Test: 0
+Utils Test (accuracy and l2_dist): 5
+ID3 & Pruning Test: 25
+
+Final grade for the wet part: 54
